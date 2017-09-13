@@ -1,0 +1,14 @@
+To compile all
+./compileall
+
+To create a key
+./keygen [size] > keyname
+
+To encrpyt a text file into cyphertext file
+./otp_enc [filename] [keyname] [encport] > [cypherfilename]
+
+To decrpyt a text file
+./otp_dec [cypherfilename] [keyname] [decport]
+
+To run testing script
+./cypherscript [encport] [decport]
