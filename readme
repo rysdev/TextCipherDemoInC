@@ -10,5 +10,5 @@ To encrpyt a text file into cyphertext file
 To decrpyt a text file
 ./otp_dec [cypherfilename] [keyname] [decport]
 
-To run testing script
+To run the testing script
 ./cypherscript [encport] [decport]
