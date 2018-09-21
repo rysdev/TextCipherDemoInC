@@ -4,7 +4,7 @@ To compile all
 To create a key
 ./keygen [size] > keyname
 
-To encrpyt a text file into cyphertext file
+To encrpyt a text file into a cyphertext file
 ./otp_enc [filename] [keyname] [encport] > [cypherfilename]
 
 To decrpyt a text file
