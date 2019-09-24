@@ -1,7 +1,7 @@
 To compile all
 ./compileall
 
-To create a key 
+To create a key
 ./keygen [size] > keyname
 
 To encrpyt a text file into a cyphertext file
